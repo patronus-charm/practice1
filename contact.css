@@ -1,0 +1,36 @@
+
+nav{
+    background-color: black;
+    color:white;
+    font-size: 45px;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+#apt{
+    background-color: red;
+}
+h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
+   
+      
+}
+.container{
+    text-align: left;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.header{
+    
+    font-size: 30px;
+    font-weight: bold;
+}
+form{
+    text-align: left;
+}
